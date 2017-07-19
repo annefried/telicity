@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <annotations>
+        <annotation>
+            <id>756675</id>
+            <start>1576</start>
+            <end>1583</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756682</id>
+            <start>18452</start>
+            <end>18457</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756676</id>
+            <start>7071</start>
+            <end>7083</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756691</id>
+            <start>6745</start>
+            <end>6756</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756692</id>
+            <start>10226</start>
+            <end>10233</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756740</id>
+            <start>11169</start>
+            <end>11178</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756681</id>
+            <start>15926</start>
+            <end>15934</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756733</id>
+            <start>10009</start>
+            <end>10015</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756598</id>
+            <start>24110</start>
+            <end>24120</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756593</id>
+            <start>21141</start>
+            <end>21149</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756626</id>
+            <start>16112</start>
+            <end>16119</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756638</id>
+            <start>135</start>
+            <end>141</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756560</id>
+            <start>4537</start>
+            <end>4545</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756561</id>
+            <start>26758</start>
+            <end>26767</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756695</id>
+            <start>6352</start>
+            <end>6360</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756728</id>
+            <start>5895</start>
+            <end>5901</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756622</id>
+            <start>1537</start>
+            <end>1540</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756611</id>
+            <start>12220</start>
+            <end>12227</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756642</id>
+            <start>7644</start>
+            <end>7650</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756680</id>
+            <start>7478</start>
+            <end>7484</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756568</id>
+            <start>9025</start>
+            <end>9029</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756741</id>
+            <start>15572</start>
+            <end>15580</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756547</id>
+            <start>7898</start>
+            <end>7904</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756651</id>
+            <start>12458</start>
+            <end>12464</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756595</id>
+            <start>19605</start>
+            <end>19612</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756600</id>
+            <start>6190</start>
+            <end>6201</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756628</id>
+            <start>23997</start>
+            <end>24004</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756552</id>
+            <start>11107</start>
+            <end>11112</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756688</id>
+            <start>20977</start>
+            <end>20986</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756587</id>
+            <start>22385</start>
+            <end>22391</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756623</id>
+            <start>7989</start>
+            <end>7996</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756705</id>
+            <start>15283</start>
+            <end>15292</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756633</id>
+            <start>817</start>
+            <end>828</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756596</id>
+            <start>149</start>
+            <end>157</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756578</id>
+            <start>2827</start>
+            <end>2839</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756650</id>
+            <start>4778</start>
+            <end>4788</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756670</id>
+            <start>10792</start>
+            <end>10800</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756746</id>
+            <start>10845</start>
+            <end>10851</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756689</id>
+            <start>23010</start>
+            <end>23013</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756602</id>
+            <start>15156</start>
+            <end>15163</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756579</id>
+            <start>9125</start>
+            <end>9129</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756594</id>
+            <start>5542</start>
+            <end>5547</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756687</id>
+            <start>20721</start>
+            <end>20727</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756643</id>
+            <start>16911</start>
+            <end>16917</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756742</id>
+            <start>16579</start>
+            <end>16588</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756698</id>
+            <start>22076</start>
+            <end>22085</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756647</id>
+            <start>25207</start>
+            <end>25214</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756597</id>
+            <start>18068</start>
+            <end>18077</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756555</id>
+            <start>20783</start>
+            <end>20791</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756727</id>
+            <start>26341</start>
+            <end>26347</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756621</id>
+            <start>1605</start>
+            <end>1617</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756726</id>
+            <start>9257</start>
+            <end>9265</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756715</id>
+            <start>2485</start>
+            <end>2493</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756712</id>
+            <start>22299</start>
+            <end>22307</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756614</id>
+            <start>15070</start>
+            <end>15076</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756674</id>
+            <start>3504</start>
+            <end>3510</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756615</id>
+            <start>4012</start>
+            <end>4022</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756655</id>
+            <start>19506</start>
+            <end>19517</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756702</id>
+            <start>22656</start>
+            <end>22665</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756744</id>
+            <start>8575</start>
+            <end>8582</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756572</id>
+            <start>441</start>
+            <end>448</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756582</id>
+            <start>17607</start>
+            <end>17613</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756605</id>
+            <start>17750</start>
+            <end>17757</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756678</id>
+            <start>15465</start>
+            <end>15471</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756737</id>
+            <start>5060</start>
+            <end>5067</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756563</id>
+            <start>17491</start>
+            <end>17495</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756573</id>
+            <start>13343</start>
+            <end>13350</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756734</id>
+            <start>13047</start>
+            <end>13057</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756569</id>
+            <start>5458</start>
+            <end>5465</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756574</id>
+            <start>26177</start>
+            <end>26183</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756684</id>
+            <start>12086</start>
+            <end>12092</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756700</id>
+            <start>21291</start>
+            <end>21300</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756745</id>
+            <start>18286</start>
+            <end>18293</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756714</id>
+            <start>13015</start>
+            <end>13022</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756693</id>
+            <start>10516</start>
+            <end>10524</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756646</id>
+            <start>9437</start>
+            <end>9449</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756627</id>
+            <start>14064</start>
+            <end>14071</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756613</id>
+            <start>26931</start>
+            <end>26943</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756701</id>
+            <start>22520</start>
+            <end>22525</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756663</id>
+            <start>5363</start>
+            <end>5370</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756639</id>
+            <start>12849</start>
+            <end>12854</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756718</id>
+            <start>24227</start>
+            <end>24234</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756636</id>
+            <start>9607</start>
+            <end>9615</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756654</id>
+            <start>23688</start>
+            <end>23694</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756584</id>
+            <start>24928</start>
+            <end>24936</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756661</id>
+            <start>3845</start>
+            <end>3854</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756640</id>
+            <start>3053</start>
+            <end>3057</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756677</id>
+            <start>23384</start>
+            <end>23393</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756731</id>
+            <start>13593</start>
+            <end>13601</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756679</id>
+            <start>9884</start>
+            <end>9892</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756657</id>
+            <start>10347</start>
+            <end>10354</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756564</id>
+            <start>7558</start>
+            <end>7565</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756620</id>
+            <start>12819</start>
+            <end>12823</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756668</id>
+            <start>21732</start>
+            <end>21738</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756730</id>
+            <start>23968</start>
+            <end>23973</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756576</id>
+            <start>11295</start>
+            <end>11305</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756738</id>
+            <start>20624</start>
+            <end>20633</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756625</id>
+            <start>21710</start>
+            <end>21715</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756566</id>
+            <start>4230</start>
+            <end>4239</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756562</id>
+            <start>14794</start>
+            <end>14800</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756648</id>
+            <start>15786</start>
+            <end>15790</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756548</id>
+            <start>21415</start>
+            <end>21423</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756652</id>
+            <start>16708</start>
+            <end>16713</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756603</id>
+            <start>8824</start>
+            <end>8833</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756732</id>
+            <start>400</start>
+            <end>409</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756571</id>
+            <start>1994</start>
+            <end>2003</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756558</id>
+            <start>969</start>
+            <end>972</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756736</id>
+            <start>8968</start>
+            <end>8977</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756631</id>
+            <start>7869</start>
+            <end>7878</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756673</id>
+            <start>11457</start>
+            <end>11464</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756644</id>
+            <start>18430</start>
+            <end>18434</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756570</id>
+            <start>19794</start>
+            <end>19799</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756671</id>
+            <start>19957</start>
+            <end>19963</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756617</id>
+            <start>18843</start>
+            <end>18852</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756591</id>
+            <start>1343</start>
+            <end>1352</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756658</id>
+            <start>14631</start>
+            <end>14635</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756557</id>
+            <start>5952</start>
+            <end>5961</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756632</id>
+            <start>2609</start>
+            <end>2621</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756662</id>
+            <start>21935</start>
+            <end>21941</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756721</id>
+            <start>24500</start>
+            <end>24510</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756565</id>
+            <start>14436</start>
+            <end>14443</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756739</id>
+            <start>16340</start>
+            <end>16350</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756619</id>
+            <start>14133</start>
+            <end>14139</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756669</id>
+            <start>13386</start>
+            <end>13393</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756609</id>
+            <start>25293</start>
+            <end>25301</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756589</id>
+            <start>9723</start>
+            <end>9732</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756610</id>
+            <start>17203</start>
+            <end>17209</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756590</id>
+            <start>25817</start>
+            <end>25827</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756649</id>
+            <start>1774</start>
+            <end>1779</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756686</id>
+            <start>3006</start>
+            <end>3014</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756696</id>
+            <start>1306</start>
+            <end>1309</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756656</id>
+            <start>8208</start>
+            <end>8216</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756659</id>
+            <start>17396</start>
+            <end>17402</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756722</id>
+            <start>6956</start>
+            <end>6962</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756699</id>
+            <start>4327</start>
+            <end>4335</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756588</id>
+            <start>23631</start>
+            <end>23636</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756690</id>
+            <start>9834</start>
+            <end>9842</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756719</id>
+            <start>18493</start>
+            <end>18501</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756581</id>
+            <start>6804</start>
+            <end>6811</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756641</id>
+            <start>12030</start>
+            <end>12041</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756586</id>
+            <start>8049</start>
+            <end>8055</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756709</id>
+            <start>6494</start>
+            <end>6502</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756725</id>
+            <start>2157</start>
+            <end>2164</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756710</id>
+            <start>19176</start>
+            <end>19183</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756592</id>
+            <start>1821</start>
+            <end>1825</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756630</id>
+            <start>13757</start>
+            <end>13764</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756606</id>
+            <start>11862</start>
+            <end>11868</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756553</id>
+            <start>12967</start>
+            <end>12973</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756567</id>
+            <start>14470</start>
+            <end>14476</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756577</id>
+            <start>20167</start>
+            <end>20174</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756707</id>
+            <start>13884</start>
+            <end>13891</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756559</id>
+            <start>21860</start>
+            <end>21863</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756653</id>
+            <start>26794</start>
+            <end>26803</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756608</id>
+            <start>26078</start>
+            <end>26082</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756713</id>
+            <start>641</start>
+            <end>648</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756672</id>
+            <start>16629</start>
+            <end>16633</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756607</id>
+            <start>15650</start>
+            <end>15658</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756599</id>
+            <start>17437</start>
+            <end>17443</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756708</id>
+            <start>18782</start>
+            <end>18789</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756743</id>
+            <start>10111</start>
+            <end>10119</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756716</id>
+            <start>16803</start>
+            <end>16813</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756580</id>
+            <start>8357</start>
+            <end>8363</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756704</id>
+            <start>12194</start>
+            <end>12199</end>
+            <targetType>None</targetType>
+        </annotation>
+        <annotation>
+            <id>756629</id>
+            <start>14149</start>
+            <end>14159</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756660</id>
+            <start>24649</start>
+            <end>24654</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756637</id>
+            <start>24864</start>
+            <end>24873</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756703</id>
+            <start>11921</start>
+            <end>11927</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756618</id>
+            <start>22564</start>
+            <end>22571</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756685</id>
+            <start>2392</start>
+            <end>2400</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756664</id>
+            <start>12736</start>
+            <end>12740</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756583</id>
+            <start>21088</start>
+            <end>21097</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756711</id>
+            <start>6649</start>
+            <end>6657</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756666</id>
+            <start>26355</start>
+            <end>26363</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756706</id>
+            <start>9361</start>
+            <end>9368</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756720</id>
+            <start>20404</start>
+            <end>20414</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756616</id>
+            <start>23639</start>
+            <end>23647</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756723</id>
+            <start>24327</start>
+            <end>24334</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756634</id>
+            <start>5801</start>
+            <end>5810</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756697</id>
+            <start>24517</start>
+            <end>24522</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756551</id>
+            <start>22763</start>
+            <end>22770</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756550</id>
+            <start>2744</start>
+            <end>2750</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756612</id>
+            <start>5308</start>
+            <end>5312</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756546</id>
+            <start>6140</start>
+            <end>6149</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756729</id>
+            <start>10963</start>
+            <end>10975</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756665</id>
+            <start>18948</start>
+            <end>18959</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756694</id>
+            <start>12530</start>
+            <end>12535</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756575</id>
+            <start>22832</start>
+            <end>22839</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756624</id>
+            <start>1060</start>
+            <end>1067</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756556</id>
+            <start>14946</start>
+            <end>14953</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756717</id>
+            <start>22333</start>
+            <end>22340</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756604</id>
+            <start>3909</start>
+            <end>3916</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756683</id>
+            <start>11591</start>
+            <end>11599</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756667</id>
+            <start>17549</start>
+            <end>17554</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756554</id>
+            <start>3221</start>
+            <end>3232</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756735</id>
+            <start>14276</start>
+            <end>14280</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756585</id>
+            <start>20542</start>
+            <end>20551</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756549</id>
+            <start>7352</start>
+            <end>7359</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>stative</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756724</id>
+            <start>9291</start>
+            <end>9299</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756601</id>
+            <start>25720</start>
+            <end>25728</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756635</id>
+            <start>20837</start>
+            <end>20845</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>756645</id>
+            <start>7321</start>
+            <end>7326</end>
+            <targetType>Situation Entity</targetType>
+            <labels labelSetName="Lexical Aspectual Class">
+                <label>dynamic</label>
+            </labels>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+    </annotations>
+    <links/>
+</document>

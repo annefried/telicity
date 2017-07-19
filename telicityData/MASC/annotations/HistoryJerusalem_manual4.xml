@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <annotations>
+        <annotation>
+            <id>253804</id>
+            <start>8784</start>
+            <end>8790</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253797</id>
+            <start>10568</start>
+            <end>10580</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253783</id>
+            <start>6659</start>
+            <end>6666</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253782</id>
+            <start>15668</start>
+            <end>15674</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253787</id>
+            <start>9133</start>
+            <end>9139</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253791</id>
+            <start>15599</start>
+            <end>15604</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253813</id>
+            <start>10158</start>
+            <end>10168</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253781</id>
+            <start>6164</start>
+            <end>6172</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253802</id>
+            <start>7231</start>
+            <end>7237</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253790</id>
+            <start>15345</start>
+            <end>15355</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253793</id>
+            <start>13035</start>
+            <end>13038</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253806</id>
+            <start>7884</start>
+            <end>7888</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253779</id>
+            <start>13846</start>
+            <end>13849</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253784</id>
+            <start>15623</start>
+            <end>15636</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253805</id>
+            <start>1237</start>
+            <end>1246</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253801</id>
+            <start>4145</start>
+            <end>4149</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253800</id>
+            <start>7360</start>
+            <end>7363</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253776</id>
+            <start>1338</start>
+            <end>1343</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253798</id>
+            <start>7814</start>
+            <end>7820</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253792</id>
+            <start>6940</start>
+            <end>6946</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253815</id>
+            <start>4475</start>
+            <end>4484</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253809</id>
+            <start>15715</start>
+            <end>15726</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253775</id>
+            <start>9750</start>
+            <end>9754</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253789</id>
+            <start>7774</start>
+            <end>7782</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253810</id>
+            <start>12590</start>
+            <end>12594</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253795</id>
+            <start>9079</start>
+            <end>9085</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253799</id>
+            <start>767</start>
+            <end>773</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253803</id>
+            <start>5535</start>
+            <end>5540</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253788</id>
+            <start>2750</start>
+            <end>2756</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253777</id>
+            <start>6053</start>
+            <end>6059</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253762</id>
+            <start>8487</start>
+            <end>8492</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253814</id>
+            <start>4923</start>
+            <end>4931</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253812</id>
+            <start>5838</start>
+            <end>5847</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253816</id>
+            <start>5337</start>
+            <end>5342</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253796</id>
+            <start>12885</start>
+            <end>12891</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253807</id>
+            <start>3886</start>
+            <end>3893</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253780</id>
+            <start>4709</start>
+            <end>4718</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253808</id>
+            <start>13166</start>
+            <end>13169</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253786</id>
+            <start>11264</start>
+            <end>11269</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253778</id>
+            <start>7928</start>
+            <end>7937</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253785</id>
+            <start>10434</start>
+            <end>10443</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253794</id>
+            <start>6248</start>
+            <end>6254</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253811</id>
+            <start>5789</start>
+            <end>5796</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>253817</id>
+            <start>11739</start>
+            <end>11745</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+<annotation>
+            <id>256745</id>
+            <start>1659</start>
+            <end>1663</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256750</id>
+            <start>10029</start>
+            <end>10036</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256747</id>
+            <start>1515</start>
+            <end>1526</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256740</id>
+            <start>11963</start>
+            <end>11968</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256755</id>
+            <start>14785</start>
+            <end>14792</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256737</id>
+            <start>9701</start>
+            <end>9713</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256734</id>
+            <start>2114</start>
+            <end>2119</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256735</id>
+            <start>1972</start>
+            <end>1980</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256736</id>
+            <start>6480</start>
+            <end>6485</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256746</id>
+            <start>9353</start>
+            <end>9358</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256754</id>
+            <start>5250</start>
+            <end>5262</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256744</id>
+            <start>4635</start>
+            <end>4643</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256739</id>
+            <start>13598</start>
+            <end>13608</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256741</id>
+            <start>11510</start>
+            <end>11517</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256753</id>
+            <start>14945</start>
+            <end>14949</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256751</id>
+            <start>16260</start>
+            <end>16269</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256742</id>
+            <start>7735</start>
+            <end>7744</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256743</id>
+            <start>15036</start>
+            <end>15046</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256752</id>
+            <start>3410</start>
+            <end>3420</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256738</id>
+            <start>3537</start>
+            <end>3544</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256748</id>
+            <start>15781</start>
+            <end>15788</end>
+            <spanType>None</spanType>
+        </annotation>
+        <annotation>
+            <id>256749</id>
+            <start>3788</start>
+            <end>3797</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+    </annotations>
+    <links/>
+</document>
+        <annotation>
+            <id>256745</id>
+            <start>1659</start>
+            <end>1663</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256750</id>
+            <start>10029</start>
+            <end>10036</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256747</id>
+            <start>1515</start>
+            <end>1526</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256740</id>
+            <start>11963</start>
+            <end>11968</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256755</id>
+            <start>14785</start>
+            <end>14792</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256737</id>
+            <start>9701</start>
+            <end>9713</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256734</id>
+            <start>2114</start>
+            <end>2119</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256735</id>
+            <start>1972</start>
+            <end>1980</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256736</id>
+            <start>6480</start>
+            <end>6485</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256746</id>
+            <start>9353</start>
+            <end>9358</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256754</id>
+            <start>5250</start>
+            <end>5262</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256744</id>
+            <start>4635</start>
+            <end>4643</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256739</id>
+            <start>13598</start>
+            <end>13608</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256741</id>
+            <start>11510</start>
+            <end>11517</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256753</id>
+            <start>14945</start>
+            <end>14949</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256751</id>
+            <start>16260</start>
+            <end>16269</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256742</id>
+            <start>7735</start>
+            <end>7744</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256743</id>
+            <start>15036</start>
+            <end>15046</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256752</id>
+            <start>3410</start>
+            <end>3420</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256738</id>
+            <start>3537</start>
+            <end>3544</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>telic</label>
+            </labels>
+        </annotation>
+        <annotation>
+            <id>256748</id>
+            <start>15781</start>
+            <end>15788</end>
+            <spanType>None</spanType>
+        </annotation>
+        <annotation>
+            <id>256749</id>
+            <start>3788</start>
+            <end>3797</end>
+            <spanType>Situation Entity</spanType>
+            <labels labelSetName="Telicity">
+                <label>atelic</label>
+            </labels>
+        </annotation>
+    </annotations>
+    <links/>
+</document>
