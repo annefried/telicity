@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<experiment>
+
+<!-- descriptive name for folder with results -->
+<desc>cv10-masc-ablateTenseAspect</desc>
+
+<!-- folder with input ARFF data -->
+<inputArffDir>masc</inputArffDir>
+
+<!-- folder with input ARFF data for extra training data (used in each fold, but not for testing) -->
+<!--extraTrainingData>intercorp2_sampled</extraTrainingData-->
+
+<!-- Selected per feature group + some manually selected features. -->
+<numFolds>10</numFolds>
+<!-- Settings:
+genre:  genre-based cross validation, folds are defined by genres
+        feature 'document_genre' must be available in data
+withinGenre: execute x-Fold cross validation within each genre
+        (less folds are used if a genre has fewer documents than numFolds)
+xFold:  x-fold cross validation, will take numFolds into account
+test:   regular test and train setting, folder with ARFFs must contain
+        a dev and a test folder.
+learningCurve: will create a learning curve using 10/20/.../90/100% of
+        training data and x-Fold cross validation (make sure to configure
+        unigrams as bigrams don't work with downsampled data!)
+-->
+<settings>
+    <!--setting>genre</setting-->
+    <!--setting>withinGenre</setting-->
+    <setting>xFold</setting>
+    <!--setting>learningCurve</setting-->
+    <!--setting>test</setting-->
+</settings>
+
+<classAttribute featureName="class_telicity">
+    <value>telic</value>
+    <value>atelic</value>
+</classAttribute>
+
+<featurePatterns>
+
+<feature>instanceid</feature>
+
+<!-- MV: features describing main verb -->
+<!--feature>main_verb_predicate_pos</feature-->
+<feature>main_verb_predicate_lemma</feature>
+<feature>main_verb_predicate_sense0</feature>
+<feature>main_verb_predicate_sense1</feature>
+<!--feature>main_verb_verb_tense</feature>
+<feature>main_verb_verb_coarseTense</feature>
+<feature>main_verb_verb_progressive</feature>
+<feature>main_verb_verb_perfect</feature-->
+<feature>main_verb_verb_voice</feature>
+<feature>main_verb_dobj_.*</feature>
+<feature>main_verb_iobj_.*</feature>
+<feature>main_verb_pobj_.*</feature>
+<feature>main_verb_lingInd_.*</feature>
+<feature used="false">main_verb_lingInd_freq</feature>
+
+<!-- not in ARFF, need to fix first -->
+<!--feature>main_verb_bc_320</feature>
+<feature>main_verb_bc_1000</feature>
+<feature>main_verb_dobj_bc_320</feature>
+<feature>main_verb_dobj_bc_1000</feature-->
+
+
+<!-- MR: features describing main referent -->
+<feature>main_referent_number</feature>
+<feature>main_referent_person</feature>
+<feature>main_referent_countability</feature>
+<feature>main_referent_nounType</feature>
+<feature>main_referent_determinerType</feature>
+<feature>main_referent_barePlural</feature>
+<feature>main_referent_wnGranularity</feature>
+<feature>main_referent_sense0</feature>
+<feature>main_referent_sense1</feature>
+<feature>main_referent_sense2</feature>
+<feature>main_referent_sense3</feature>
+<feature>main_referent_senseTop</feature>
+<feature>main_referent_wnLexicalFilename</feature>
+<feature>main_referent_mentionLemma</feature>
+<feature>main_referent_depRel0</feature>
+<feature>main_referent_depRel1</feature>
+<feature>main_referent_depRel2</feature>
+<feature>main_referent_depRel3</feature>
+<feature>main_referent_depRel4</feature>
+
+<!-- CL: clause -->
+<feature>main_verb_clauseAdverbDegree</feature>
+<feature>main_verb_clauseAdverbPred</feature>
+<feature>main_verb_clauseHasTmod</feature>
+<feature>main_verb_clauseNumMod</feature>
+
+</featurePatterns>
+
+
+<crfToolkit crfpp="false" crfsuite="false" liblinear="true"/>
+
+<!-- whether to use B feature in CRF -->
+<bigramFeature used="false" gold="false"/>
+
+<!-- Weka classifier which to run additionally, ZeroR is majority
+class baseline -->
+<wekaClassifier>ZeroR</wekaClassifier>
+
+<!-- sampling configuration -->
+<!-- trainSampleFactor: if less than 100, training folds are downsampled.
+Make sure not to use bigrams in this case! -->
+<trainSampleFactor>100</trainSampleFactor>
+
+</experiment>
